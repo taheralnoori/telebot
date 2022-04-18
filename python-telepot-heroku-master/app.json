@@ -1,0 +1,7 @@
+{
+    "name": "Python bot",
+    "description": "Python Telegram bot sample",
+    "image": "heroku/python",
+    "repository": "https://gitlab.com/devdevs/python-gif-bot.git",
+    "keywords": ["python","bot","telepot","telegram"]
+}
