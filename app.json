@@ -2,6 +2,6 @@
     "name": "Python bot",
     "description": "Python Telegram bot sample",
     "image": "heroku/python",
-    "repository": "https://gitlab.com/devdevs/python-gif-bot.git",
+    "repository": "https://github.com/taheralnoori/telebot",
     "keywords": ["python","bot","telepot","telegram"]
 }
