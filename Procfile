@@ -1,1 +1,1 @@
-worker: python inline_sample.py $TOKEN
+worker: python inline_sample.py
